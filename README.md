@@ -1,4 +1,4 @@
-# Email Spam Detection Using Machine Learning
+# Spam Detection in Messaging Applications using Machine Learning Technologies
 
 ## Project Overview
 
