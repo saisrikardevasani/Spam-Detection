@@ -1,4 +1,4 @@
-# Email Spam Detection: Comprehensive Project Report
+# Spam Detection in Messaging Applications using Machine Learning Technologies Comprehensive Project Report
 
 **Author:** Sai Srikar Devasani  
 **Date:** February 2026  
